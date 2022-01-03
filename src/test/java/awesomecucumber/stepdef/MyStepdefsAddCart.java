@@ -14,7 +14,7 @@ public class MyStepdefsAddCart {
         
     }
 
-    @Then("I see {double} {string} in the cart")
+    @Then("I see {int} {string} in the cart")
     public void iSeeInTheCart(int arg0, int arg1, String arg2) {
 
     }
